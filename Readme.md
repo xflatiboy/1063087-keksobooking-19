@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Dmitry Sorokin](https://up.htmlacademy.ru/javascript/19/user/1063087).
-* Наставник: `Неизвестно`.
+* Наставник: [Яна Казанина](https://up.htmlacademy.ru/javascript/19/user/1275245).
 
 ---
 
